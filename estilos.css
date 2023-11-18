@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(232, 149, 165);
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    color: darkgreen;
+}
+
+h3{
+    color: darkblue;
+}
+
+img{
+    width: 350px;
+    height: 340px;
+}
+
+.img1{
+    width: 380px;
+    height: 390px;
+}
+
+.img2{
+    width: 400px;
+}
